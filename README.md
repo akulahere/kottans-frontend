@@ -10,5 +10,13 @@ It was new information for me about git log with different parameters.
 - Main: Introduction Sequence
 - Remote: Push & Pull -- Git Remotes  
 ![Introduction Sequence Screenshot](./assets/images/git_screenshot2.png)  
-![Push & Pull -- Git Remotes! Screenshot](./assets/images/git_screenshot3.png)
-I get some new information from second part about git merge/rebase.
+![Push & Pull -- Git Remotes! Screenshot](./assets/images/git_screenshot3.png)  
+
+I get some new information from second part about git merge/rebase.  
+### Linux, Command Line, HTTP Tools
+#### 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
+Quizzes 1-4:
+![Quiz 1](./assets/images/linux1.png)
+![Quiz 2](./assets/images/linux2.png)
+![Quiz 3](./assets/images/linux3.png)
+![Quiz 4](./assets/images/linux4.png)
