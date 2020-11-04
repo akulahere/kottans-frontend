@@ -2,7 +2,7 @@
 
 # General
 
-### 0. Git Basics
+## 0. Git Basics
 #### 1. Finish the course [Version Control with Git](https://classroom.udacity.com/courses/ud123)  
 ![Screenshot](./assets/images/git_screenshot1.png)  
 It was new information for me about git log with different parameters. 
@@ -13,7 +13,7 @@ It was new information for me about git log with different parameters.
 ![Push & Pull -- Git Remotes! Screenshot](./assets/images/git_screenshot3.png)  
 
 I get some new information from second part about git merge/rebase.  
-### Linux, Command Line, HTTP Tools
+## Linux, Command Line, HTTP Tools
 #### 1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)
 Quizzes 1-4:
 ![Quiz 1](assets/images/task_linux_cli/linux1.png)
