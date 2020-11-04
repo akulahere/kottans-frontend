@@ -2,7 +2,7 @@
 
 # General
 
-## 0. Git Collaboration
+## 0. Git Basics
 #### 1. Finish the course [Version Control with Git](https://classroom.udacity.com/courses/ud123)  
 ![Screenshot](assets/images/task_git_collaboration/git_screenshot1.png)  
 It was new information for me about git log with different parameters. 
@@ -19,4 +19,7 @@ Quizzes 1-4:
 ![Quiz 1](assets/images/task_linux_cli/linux1.png)
 ![Quiz 2](assets/images/task_linux_cli/linux2.png)
 ![Quiz 3](assets/images/task_linux_cli/linux3.png)
-![Quiz 4](assets/images/task_linux_cli/linux4.png)
+![Quiz 4](assets/images/task_linux_cli/linux4.png)  
+
+There was a lot of new information about working with the terminal.
+I also figured out better how the http / https protocol works.
