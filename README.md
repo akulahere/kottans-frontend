@@ -22,4 +22,18 @@ Quizzes 1-4:
 ![Quiz 4](assets/images/task_linux_cli/linux4.png)  
 
 There was a lot of new information about working with the terminal.
-I also figured out better how the http / https protocol works.
+I also figured out better how the http / https protocol works.  
+
+## Git Collaboration  
+Complete the following:
+
+#### 1. [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+![Screenshot](assets/images/task_git_collaboration/git_screenshot4.png)  
+
+Few new things that I didn't know before, for example HEAD ~ 3 and other navigation between commits.
+#### 2. Complete the following levels at [learngitbranching.js.org](learngitbranching.js.org):
+
+- Main: Ramping Up, Moving Work Around
+![Screenshot](assets/images/task_git_collaboration/git_screenshot5.png)
+- Remote: To Origin and Beyond
+![Screenshot](assets/images/task_git_collaboration/git_screenshot6.png)
