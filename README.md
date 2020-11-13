@@ -37,3 +37,12 @@ Few new things that I didn't know before, for example HEAD ~ 3 and other navigat
 ![Screenshot](assets/images/task_git_collaboration/git_screenshot5.png)
 - Remote: To Origin and Beyond
 ![Screenshot](assets/images/task_git_collaboration/git_screenshot6.png)
+
+## Intro to HTML and CSS
+- Intro to HTML & CSS (Eng) 
+I was familiar with elementary html and css, so it wasn't anything new for me.
+![Screenshot](assets/images/task_html_css_intro/html_screenshot1.png)
+- Learn HTML(Eng)
+- Learn CSS(Eng)
+Grids and flexes are amazing. It's a lot of new information for me and I would like to practice it.  
+![Screenshot](assets/images/task_html_css_intro/html_screenshot2.png)  
