@@ -48,11 +48,11 @@ Grids and flexes are amazing. It's a lot of new information for me and I would l
 ![Screenshot](assets/images/task_html_css_intro/html_screenshot2.png)  
 
 ## Responsive Web Design
-- Responsive Web Design Fundamentals
+- Responsive Web Design Fundamentals  
 Setting the viewport like <meta name="viewport" content="width=device-width, initial-scale=1.0"> in html code was new 
 for me.
 
 ![Screenshot](assets/images/task_responsive_web_design/responsive_1.png)
-- Flexbox Froggy
+- Flexbox Froggy  
 It was useful to practice with froggy-flexbox.
 ![Screenshot](assets/images/task_responsive_web_design/responsive_2.png)
