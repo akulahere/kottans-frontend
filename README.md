@@ -4,7 +4,6 @@
 
 ## 0. Git Basics
 #### 1. Finish the course [Version Control with Git](https://classroom.udacity.com/courses/ud123)  
-![Screenshot](assets/images/task_git_collaboration/git_screenshot1.png)  
 It was new information for me about git log with different parameters. 
 #### 2. Complete the following levels at [learngitbranching.js.org](learngitbranching.js.org):
 - Main: Introduction Sequence
@@ -56,3 +55,8 @@ for me.
 - Flexbox Froggy  
 It was useful to practice with froggy-flexbox.
 ![Screenshot](assets/images/task_responsive_web_design/responsive_2.png)
+
+## HTML & CSS practice: Hooli-style Popup
+[Codebase](https://github.com/akulahere/html-css-popup)  
+[Demo](https://akulahere.github.io/html-css-popup/)  
+[MR](https://github.com/kottans/frontend-2021-homeworks/pull/155)  
