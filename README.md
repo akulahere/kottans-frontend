@@ -62,9 +62,9 @@ It was useful to practice with froggy-flexbox.
 [MR](https://github.com/kottans/frontend-2021-homeworks/pull/155)  
 
 ## JS Basics  
-- Intro to JS 
+- Intro to JS  
 It was no much new information about basic js because I am already familiar with the basics.
 ![Screenshot](assets/images/task_js_basics/js_1.png)  
-- FreeCodeCamp exercises
+- FreeCodeCamp exercises  
 I recalled basic constructions like destruction, spread and rest.
 ![Screenshot](assets/images/task_js_basics/js_2.png)  
