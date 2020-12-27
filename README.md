@@ -68,3 +68,13 @@ It was no much new information about basic js because I am already familiar with
 - FreeCodeCamp exercises  
 I recalled basic constructions like destruction, spread and rest.
 ![Screenshot](assets/images/task_js_basics/js_2.png)  
+
+## DOM
+- JavaScript and the DOM  
+In Udacity course I recalled:
+How to create content with JS, event loop and how to work with it. Also, it was useful to read about what Nodes and Elements.
+![Screenshot](assets/images/task_js_dom/js_dom1.png)  
+- freecodecamp Algorithm Scripting Challenges  
+![Screenshot](assets/images/task_js_dom/js_dom2.png)  
+
+
