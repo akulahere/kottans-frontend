@@ -77,4 +77,7 @@ How to create content with JS, event loop and how to work with it. Also, it was 
 - freecodecamp Algorithm Scripting Challenges  
 ![Screenshot](assets/images/task_js_dom/js_dom2.png)  
 
-
+## Building a Tiny JS World
+[Codebase](https://github.com/akulahere/a-tiny-JS-world)  
+[Demo](https://akulahere.github.io/a-tiny-JS-world/)  
+[MR](https://github.com/kottans/frontend-2021-homeworks/pull/364)  
