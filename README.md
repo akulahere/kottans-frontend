@@ -81,3 +81,15 @@ How to create content with JS, event loop and how to work with it. Also, it was 
 [Codebase](https://github.com/akulahere/a-tiny-JS-world)  
 [Demo](https://akulahere.github.io/a-tiny-JS-world/)  
 [MR](https://github.com/kottans/frontend-2021-homeworks/pull/364)  
+
+## Object Oriented JS
+- Object Oriented JS Udacity   
+![Screenshot](assets/images/task_js_oop/oop.png)  
+It was very useful for me to recall work with prototypes. I better understand how they works and how I can use them in
+my code.
+- Frogger
+[Codebase](https://github.com/akulahere/frontend-nanodegree-arcade-game)  
+[Demo](https://akulahere.github.io/frontend-nanodegree-arcade-game/)  
+[MR](https://github.com/kottans/frontend-2021-homeworks/pull/365)  
+- Codewars 
+![Screenshot](assets/images/task_js_oop/codewars.png)  
