@@ -93,3 +93,9 @@ my code.
 [MR](https://github.com/kottans/frontend-2021-homeworks/pull/365)  
 - Codewars 
 ![Screenshot](assets/images/task_js_oop/codewars.png)  
+
+## OOP exercise practice
+   
+[Codebase](https://github.com/akulahere/a-tiny-JS-world)  
+[Demo](https://akulahere.github.io/a-tiny-JS-world/)  
+[MR](https://github.com/kottans/frontend-2021-homeworks/pull/379)  
